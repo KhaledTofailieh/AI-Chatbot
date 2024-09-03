@@ -1,0 +1,7 @@
+chainlit~=1.1.402
+torch~=2.4.0
+transformers~=4.44.0
+setuptools~=65.5.1
+bitsandbytes
+langchain_core
+accelerate
